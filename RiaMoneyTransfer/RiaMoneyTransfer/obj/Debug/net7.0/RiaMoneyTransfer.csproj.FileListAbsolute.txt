@@ -1,0 +1,15 @@
+F:\DotNet-Projects\RiaMoneyTransfer\RiaMoneyTransfer\bin\Debug\net7.0\RiaMoneyTransfer.exe
+F:\DotNet-Projects\RiaMoneyTransfer\RiaMoneyTransfer\bin\Debug\net7.0\RiaMoneyTransfer.deps.json
+F:\DotNet-Projects\RiaMoneyTransfer\RiaMoneyTransfer\bin\Debug\net7.0\RiaMoneyTransfer.runtimeconfig.json
+F:\DotNet-Projects\RiaMoneyTransfer\RiaMoneyTransfer\bin\Debug\net7.0\RiaMoneyTransfer.dll
+F:\DotNet-Projects\RiaMoneyTransfer\RiaMoneyTransfer\bin\Debug\net7.0\RiaMoneyTransfer.pdb
+F:\DotNet-Projects\RiaMoneyTransfer\RiaMoneyTransfer\obj\Debug\net7.0\RiaMoneyTransfer.csproj.AssemblyReference.cache
+F:\DotNet-Projects\RiaMoneyTransfer\RiaMoneyTransfer\obj\Debug\net7.0\RiaMoneyTransfer.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNet-Projects\RiaMoneyTransfer\RiaMoneyTransfer\obj\Debug\net7.0\RiaMoneyTransfer.AssemblyInfoInputs.cache
+F:\DotNet-Projects\RiaMoneyTransfer\RiaMoneyTransfer\obj\Debug\net7.0\RiaMoneyTransfer.AssemblyInfo.cs
+F:\DotNet-Projects\RiaMoneyTransfer\RiaMoneyTransfer\obj\Debug\net7.0\RiaMoneyTransfer.csproj.CoreCompileInputs.cache
+F:\DotNet-Projects\RiaMoneyTransfer\RiaMoneyTransfer\obj\Debug\net7.0\RiaMoneyTransfer.dll
+F:\DotNet-Projects\RiaMoneyTransfer\RiaMoneyTransfer\obj\Debug\net7.0\refint\RiaMoneyTransfer.dll
+F:\DotNet-Projects\RiaMoneyTransfer\RiaMoneyTransfer\obj\Debug\net7.0\RiaMoneyTransfer.pdb
+F:\DotNet-Projects\RiaMoneyTransfer\RiaMoneyTransfer\obj\Debug\net7.0\RiaMoneyTransfer.genruntimeconfig.cache
+F:\DotNet-Projects\RiaMoneyTransfer\RiaMoneyTransfer\obj\Debug\net7.0\ref\RiaMoneyTransfer.dll
